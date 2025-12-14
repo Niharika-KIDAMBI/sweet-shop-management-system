@@ -13,6 +13,8 @@ Backend: Node.js, Express
 
 Database: MongoDB (Atlas)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/15d98893-68ff-4237-a99c-229756da1737" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b118f049-3c93-41da-b5dd-8d4a3af6f90c" />
+ we have change the user model either admin or user here in the place of "USER" and "ADMIN" where the changes will be visible on the panel.
 
 
 Authentication: JWT
